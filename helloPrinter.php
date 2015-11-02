@@ -1,3 +1,3 @@
 <?php
-echo "Hello " . $GET_['planet'];
+echo "Hello " . $_GET['planet'];
 ?>
