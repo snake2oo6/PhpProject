@@ -6,11 +6,11 @@
 </head>
 <body>
 
-<?php
-echo "<p>Would you like to say hello?</p>";
-echo "<a hef = helloselector.php?planet=earth/>Earth</a>";
-echo "<a hef = helloselector.php?planet=mars/>Mars</a>";
-?>
+
+<p>Would you like to say hello?</p>
+<a hef = helloselector.php?planet=earth/>Earth</a>
+<a hef = helloselector.php?planet=mars/>Mars</a>
+
 </body>
 </html>
 
