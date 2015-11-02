@@ -8,8 +8,8 @@
 
 
 <p>Would you like to say hello?</p>
-<a hef = helloselector.php?planet=earth/>Earth</a>
-<a hef = helloselector.php?planet=mars/>Mars</a>
+<a hef = "helloselector.php?planet=earth" />Earth</a>
+<a hef = "helloselector.php?planet=mars" />Mars</a>
 
 </body>
 </html>
